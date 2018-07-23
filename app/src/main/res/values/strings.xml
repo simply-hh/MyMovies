@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Movies</string>
+    <string name="desc">Desciption</string>
+    <string name="title">Title</string>
+    <string name="year">year and genre</string>
+    <string name="watch_on">Watch on</string>
+    <string name="theater">In Theater</string>
+</resources>
